@@ -33,3 +33,5 @@ Running the experiments for scalability:
 
 `cd scalability\`
 `python main.py`
+
+Output is to be found in the analysis\ folder
