@@ -27,11 +27,13 @@ We also define several heuristics for our pipeline and provide an experimental e
 Running the experiments on the case study:
 
 `cd case_study\`
+
 `python main.py`
 
 Running the experiments for scalability:
 
 `cd scalability\`
+
 `python main.py`
 
 Output is to be found in the analysis\ folder
