@@ -1,0 +1,328 @@
+Step;Node;Score;Response
+0;a:oracle;109,44448675984444;True
+1;a:netapp;42,84006686230099;False
+2;o:debian;47,17769442592184;False
+3;a:oracle:jdk;43,74313555120197;True
+4;a:oracle:jre;42,43000149323094;True
+5;a:oracle:mysql;35,903203865571214;True
+6;o:canonical;34,060615844356654;True
+7;o:redhat;32,04575055479698;False
+8;a:redhat;33,739113012768264;False
+9;o:canonical:ubuntu_linux;36,44802226603078;True
+10;o:fedoraproject;21,099141343578992;False
+11;o:opensuse;20,492053436918958;False
+12;a:oracle:jdk:1.7.0;17,555237695977763;True
+13;a:oracle:jdk:1.8.0;20,471257491654978;False
+14;a:oracle:jre:1.8.0;24,44099865849091;False
+15;a:oracle:jre:1.7.0;29,660572522019816;True
+16;a:oracle:jdk:1.6.0;22,04509844993716;False
+17;a:oracle:jre:1.6.0;36,898057891765;False
+18;a:oracle:jrockit;20,47077216261998;False
+19;o:canonical:ubuntu_linux:16.04;18,17918503784994;False
+20;a:mariadb;16,500000000000007;False
+21;o:canonical:ubuntu_linux:18.04;17,847532534922095;False
+22;a:hp;14,557730818488768;False
+23;o:canonical:ubuntu_linux:14.04;12,986598071400515;False
+24;a:oracle:openjdk;12,785714285714285;True
+25;a:oracle:graalvm;11,592960662525883;False
+26;o:canonical:ubuntu_linux:17.10;11,016666666666666;False
+27;a:mcafee;10,38480032599837;False
+28;o:canonical:ubuntu_linux:18.10;9,219687092568446;False
+29;o:canonical:ubuntu_linux:19.04;8,8547619047619;False
+30;o:canonical:ubuntu_linux:19.10;7,811111111111111;False
+31;h:netapp;7,6034739201304;False
+32;a:oracle:openjdk:8;6,680772005772003;False
+33;a:oracle:openjdk:7;9,396770773086564;True
+34;a:oracle:mysql:<= 5.6.38;>= 5.6.0;5,75;True
+35;o:oracle;5,743476328072906;False
+36;a:oracle:mysql:<= 5.6.39;>= 5.6.0;5,5;True
+37;o:canonical:ubuntu_linux:12.04;5,84077975033857;False
+38;o:canonical:ubuntu_linux:20.04;5,083333333333333;False
+39;a:openssl;4,855640712181054;True
+40;a:azul;4,5;False
+41;a:openssl:openssl;4,140406944211292;True
+42;a:oracle:mysql:<= 5.6.42;>= 5.6.0;3,3333333333333335;True
+43;a:oracle:jre:1.7;3,3333333333333317;True
+44;a:oracle:mysql:<= 5.7.27;>= 5.7.0;3,0000000000000004;False
+45;a:oracle:mysql:<= 5.6.45;>= 5.6.0;5,0;True
+46;a:oracle:mysql:<= 5.7.23;>= 5.7.0;2,8833333333333333;False
+47;a:oracle:mysql:<= 5.6.41;>= 5.6.0;4,142857142857143;True
+48;a:oracle:mysql:<= 8.0.17;>= 8.0.0;2,8333333333333335;False
+49;a:oracle:mysql:<= 5.6.47;>= 5.6.0;3,333333333333334;True
+50;a:oracle:mysql:<= 5.7.29;>= 5.7.0;3,5;False
+51;a:oracle:mysql:<= 8.0.19;>= 8.0.0;6,0;False
+52;a:apache;2,833333333333333;False
+53;a:oracle:java_se;2,5573671497584543;False
+54;a:pivotal_software;2,5;True
+55;a:pivotal_software:rabbitmq;2,5;True
+56;a:oracle:mysql:<= 5.6.44;>= 5.6.0;2,333333333333333;True
+57;a:oracle:mysql:<= 8.0.18;>= 8.0.0;2,1666666666666665;False
+58;o:microsoft;2,1635696821515893;False
+59;a:oracle:mysql:<= 5.7.28;>= 5.7.0;2,0;False
+60;a:libreoffice;2,0;True
+61;a:libreoffice:libreoffice;2,0;False
+62;a:oracle:mysql:<= 5.6.46;>= 5.6.0;2,0;True
+63;a:oracle:mysql:<= 5.7.31;>= 5.7.0;1,9999999999999998;False
+64;a:oracle:mysql:<= 5.6.49;>= 5.6.0;3,0;True
+65;a:oracle:jdk:11.0.3;1,6666666666666665;False
+66;a:oracle:mysql:<= 5.7.30;>= 5.7.0;1,543478260869565;False
+67;a:oracle:mysql:<= 5.6.50;>= 5.6.0;1,9999999999999998;True
+68;a:oracle:mysql:<= 8.0.20;>= 8.0.0;1,5454545454545454;False
+69;a:oracle:mysql:<= 5.6.48;>= 5.6.0;3,0;True
+70;a:vmware;1,5;False
+71;a:oracle:jdk:12.0.1;1,4583333333333333;False
+72;a:nodejs;1,45;False
+73;o:google;1,3333333333333333;False
+74;a:libpng;1,1004889975550123;False
+75;a:oracle:mysql:<= 8.0.15;>= 8.0.0;1,0095238095238095;False
+76;a:oracle:mysql:<= 5.6.43;>= 5.6.0;1,5096153846153846;True
+77;a:littlecms;1,0;False
+78;a:oracle:instantis_enterprisetrack;1,0;False
+79;o:netapp;1,0;False
+80;a:oracle:jdk:18;1,0333333333333332;False
+81;a:oracle:jdk:17.0.2;1,65;False
+82;o:apple;0,9419916201701042;False
+83;a:tenable;0,8666666666666666;False
+84;a:oracle:jdk:11.0.14;0,8333333333333333;False
+85;a:oracle:jre:17.0.3.1;0,7727272727272728;False
+86;a:oracle:jdk:17.0.3.1;1,3;False
+87;a:drupal;0,6666666666666666;False
+88;a:jquery;1,0;True
+89;a:oracle:jdk:7.0;0,5;False
+90;a:oracle:jdk:8.0;1,0;False
+91;a:oracle:jdk:16.0.1;0,5;False
+92;a:oracle:jdk:11.0.11;1,0;False
+93;a:samba;0,5;True
+94;a:samba:samba;0,5;False
+95;o:canonical:ubuntu_linux:15.10;1,1;False
+96;a:pulsesecure;0,5;False
+97;o:suse;0,4566354251562075;False
+98;a:mozilla;0,5787648577990876;True
+99;h:fujitsu;0,3918966119455117;False
+100;a:oracle:http_server;0,4540890269151139;False
+101;o:fujitsu;0,3918966119455117;False
+102;a:mozilla:thunderbird;0,37800207039337475;True
+103;a:mozilla:firefox_esr;0,37800207039337475;False
+104;a:oracle:database;0,3611111111111111;False
+105;a:oracle:mysql:< 5.5.59;>= 5.5.0;0,3333333333333333;False
+106;a:oracle:mysql:< 5.6.39;>= 5.6.0;0,5;True
+107;a:hpe;0,3333333333333333;False
+108;a:openssl:openssl:<= 1.1.1c;>= 1.1.1;0,3333333333333333;False
+109;a:openssl:openssl:<= 1.1.0k;>= 1.1.0;0,5;False
+110;a:openssl:openssl:<= 1.0.2s;>= 1.0.2;1,0;False
+111;a:oracle:hyperion_infrastructure_technology;0,3333333333333333;False
+112;a:oracle:mysql:< 8.0.23;0,5;True
+113;a:python;0,3333333333333333;True
+114;a:cisco;0,3333333333333333;False
+115;a:python:python;0,5;True
+116;a:ibm;0,2970289694006075;False
+117;o:ibm;0,325;False
+118;o:novell;0,39285714285714285;False
+119;o:mageia;0,3333333333333333;False
+120;o:netbsd;0,5;False
+121;a:mozilla:firefox;0,2731152452619844;True
+122;a:mozilla:firefox:-;0,3743315508021391;True
+123;a:openssl:openssl:1.0.2c;0,2673887415266726;False
+124;a:openssl:openssl:1.0.2d;0,2916233766233767;False
+125;a:openssl:openssl:1.0.2f;0,3215608465608465;False
+126;a:openssl:openssl:1.0.2b;0,35971757710888147;False
+127;a:openssl:openssl:1.0.2e;0,4104545454545454;False
+128;a:openssl:openssl:1.0.2g;0,39285714285714285;False
+129;a:openssl:openssl:1.0.2a;0,42261904761904756;False
+130;a:openssl:openssl:1.0.2;0,55;False
+131;a:openssl:openssl:<= 1.0.1s;1,0;False
+132;o:hp;0,26605541972290137;False
+133;a:pivotal_software:rabbitmq:< 1.15.13;>= 1.15.0;0,25;False
+134;a:pivotal_software:rabbitmq:< 1.17.3;>= 1.17.0;0,3333333333333333;False
+135;a:pivotal_software:rabbitmq:< 1.16.6;>= 1.16.0;0,5;False
+136;a:pivotal_software:rabbitmq:< 3.7.18;1,0;True
+137;a:mozilla:seamonkey;0,25;False
+138;a:opensuse;0,24969437652811738;False
+139;a:oracle:communications_application_session_controller;0,2321383779264214;False
+140;a:mozilla:thunderbird_esr;0,25;False
+141;a:oracle:peoplesoft_enterprise_peopletools;0,23071895424836603;False
+142;a:oracle:enterprise_manager_ops_center;0,2513348416289593;False
+143;a:oracle:enterprise_manager_base_platform;0,2564935064935065;False
+144;a:openssl:openssl:1.0.2h;0,2101449275362319;False
+145;a:jdedwards;0,2;False
+146;o:freebsd;0,25;False
+147;o:broadcom;0,3333333333333333;False
+148;o:sgi;0,2;False
+149;o:linux;0,25;True
+150;o:sco;0,25;False
+151;o:windriver;0,3333333333333333;False
+152;o:cisco;0,5;False
+153;o:linux:linux_kernel;1,0;True
+154;o:linux:linux_kernel:-;1,0;True
+155;a:openssl:openssl:1.0.2i;0,2;False
+156;a:openssl:openssl:1.0.2m;0,25;False
+157;a:openssl:openssl:1.0.2l;0,3333333333333333;False
+158;a:openssl:openssl:1.0.2k;0,5;False
+159;a:openssl:openssl:1.0.2j;1,0;False
+160;o:canonical:ubuntu_linux:12.10;0,2;False
+161;o:canonical:ubuntu_linux:13.04;0,25;False
+162;o:canonical:ubuntu_linux:13.10;0,3333333333333333;False
+163;a:mozilla:thunderbird:< 24.1.1;0,5;False
+164;a:mozilla:firefox:< 25.0.1;1,0;False
+165;h:huawei;0,1995110024449878;False
+166;a:suse;0,25;False
+167;a:huawei;0,3333333333333333;False
+168;o:canonical:ubuntu_linux:15.04;0,5714285714285714;True
+169;o:huawei;0,1995110024449878;False
+170;a:oracle:api_gateway;0,19791666666666666;False
+171;a:oracle:mysql_enterprise_backup;0,19999999999999998;False
+172;a:oracle:primavera_p6_professional_project_management;0,25;False
+173;a:oracle:tuxedo;0,3333333333333333;False
+174;a:oracle:e-business_suite_technology_stack;0,5;False
+175;a:openssl:openssl:1.1.1;0,3333333333333333;False
+176;a:openssl:openssl:<= 1.0.2p;>= 1.0.2;0,5;False
+177;a:openssl:openssl:<= 1.1.0i;>= 1.1.0;1,0;False
+178;a:oracle:jd_edwards_world_security;0,15725806451612903;False
+179;a:oracle:mysql_workbench;0,17619047619047618;False
+180;a:oracle:mysql_enterprise_monitor;0,2011494252873563;False
+181;a:oracle:mysql_connectors;0,19999999999999998;False
+182;a:oracle:enterprise_manager_for_storage_management;0,25;False
+183;a:oracle:application_server;0,3333333333333333;False
+184;a:openssl:openssl:<= 1.1.1f;>= 1.1.1d;0,5;False
+185;a:oracle:mysql:<= 5.6.48;1,0;True
+186;a:openssl:openssl:1.0.1e;0,1550661813819708;False
+187;a:openssl:openssl:1.0.1d;0,162042527702905;False
+188;a:openssl:openssl:1.0.1a;0,1697209653092006;False
+189;a:openssl:openssl:1.0.1g;0,17821768295418855;False
+190;a:openssl:openssl:1.0.1i;0,18767676767676764;False
+191;a:openssl:openssl:1.0.1b;0,19827931172468988;False
+192;a:openssl:openssl:1.0.1c;0,21025641025641031;False
+193;a:openssl:openssl:1.0.1h;0,22390817469204932;False
+194;a:openssl:openssl:1.0.1f;0,2396323483280004;True
+195;a:oracle:jd_edwards_enterpriseone_tools;0,06904761904761905;False
+196;a:oracle:business_intelligence;0,07151979565772669;False
+197;a:oracle:weblogic_server;0,05612244897959183;False
+198;a:oracle:communications_eagle_application_processor;0,057870370370370364;False
+199;a:oracle:application_testing_suite;0,05973813420621932;False
+200;a:oracle:communications_services_gatekeeper;0,0617391304347826;False
+201;a:jquery:jquery;0,06388888888888888;True
+202;a:oracle:storagetek_acsls;0,06388888888888888;False
+203;a:pivotal_software:rabbitmq:1.5.10;0,05263157894736842;False
+204;a:pivotal_software:rabbitmq:1.7.8;0,05357142857142857;False
+205;a:pivotal_software:rabbitmq:1.5.9;0,05454545454545454;False
+206;a:pivotal_software:rabbitmq:1.7.3;0,05555555555555555;False
+207;a:pivotal_software:rabbitmq:1.7.6;0,05660377358490566;False
+208;a:pivotal_software:rabbitmq:1.5.17;0,057692307692307696;False
+209;a:pivotal_software:rabbitmq:3.6.0;0,058823529411764705;False
+210;a:pivotal_software:rabbitmq:1.5.14;0,06;False
+211;a:pivotal_software:rabbitmq:1.7.9;0,061224489795918366;False
+212;a:pivotal_software:rabbitmq:1.6.7;0,0625;False
+213;a:pivotal_software:rabbitmq:1.6.15;0,06382978723404255;False
+214;a:pivotal_software:rabbitmq:1.7.2;0,06521739130434782;False
+215;a:pivotal_software:rabbitmq:1.5.13;0,06666666666666667;False
+216;a:pivotal_software:rabbitmq:1.5.4;0,06818181818181818;False
+217;a:pivotal_software:rabbitmq:1.7.14;0,06976744186046512;False
+218;a:pivotal_software:rabbitmq:1.6.9;0,07142857142857142;False
+219;a:pivotal_software:rabbitmq:1.5.19;0,07317073170731708;False
+220;a:pivotal_software:rabbitmq:1.6.13;0,07500000000000001;False
+221;a:pivotal_software:rabbitmq:1.5.0;0,07692307692307693;False
+222;a:pivotal_software:rabbitmq:1.6.14;0,07894736842105263;False
+223;a:pivotal_software:rabbitmq:1.7.0;0,08108108108108109;False
+224;a:pivotal_software:rabbitmq:1.6.10;0,08333333333333333;False
+225;a:pivotal_software:rabbitmq:3.6.6;0,08571428571428572;False
+226;a:pivotal_software:rabbitmq:1.5.3;0,08823529411764705;False
+227;a:pivotal_software:rabbitmq:1.6.2;0,09090909090909091;False
+228;a:pivotal_software:rabbitmq:1.6.12;0,09375;False
+229;a:pivotal_software:rabbitmq:1.7.4;0,0967741935483871;False
+230;a:pivotal_software:rabbitmq:1.5.2;0,1;False
+231;a:pivotal_software:rabbitmq:1.5.5;0,10344827586206896;False
+232;a:pivotal_software:rabbitmq:3.6.1;0,10714285714285714;False
+233;a:pivotal_software:rabbitmq:1.7.5;0,1111111111111111;False
+234;a:pivotal_software:rabbitmq:3.6.5;0,11538461538461539;False
+235;a:pivotal_software:rabbitmq:3.5.7;0,12;False
+236;a:pivotal_software:rabbitmq:3.6.4;0,125;False
+237;a:pivotal_software:rabbitmq:1.5.7;0,13043478260869565;False
+238;a:pivotal_software:rabbitmq:1.6.8;0,13636363636363635;False
+239;a:pivotal_software:rabbitmq:1.5.18;0,14285714285714285;False
+240;a:pivotal_software:rabbitmq:1.5.11;0,15000000000000002;False
+241;a:pivotal_software:rabbitmq:1.6.1;0,15789473684210525;False
+242;a:pivotal_software:rabbitmq:3.6.2;0,16666666666666666;False
+243;a:pivotal_software:rabbitmq:3.6.3;0,1764705882352941;False
+244;a:pivotal_software:rabbitmq:1.6.3;0,1875;False
+245;a:pivotal_software:rabbitmq:1.5.12;0,2;False
+246;a:pivotal_software:rabbitmq:1.7.10;0,21428571428571427;False
+247;a:pivotal_software:rabbitmq:1.6.6;0,23076923076923078;False
+248;a:pivotal_software:rabbitmq:1.5.1;0,25;False
+249;a:pivotal_software:rabbitmq:1.6.4;0,2727272727272727;False
+250;a:pivotal_software:rabbitmq:3.5.4;0,30000000000000004;False
+251;a:pivotal_software:rabbitmq:1.5.8;0,3333333333333333;False
+252;a:pivotal_software:rabbitmq:3.5.5;0,375;False
+253;a:pivotal_software:rabbitmq:1.5.6;0,42857142857142855;False
+254;a:pivotal_software:rabbitmq:1.5.15;0,5;False
+255;a:pivotal_software:rabbitmq:1.6.0;0,6000000000000001;False
+256;a:pivotal_software:rabbitmq:1.6.16;0,75;False
+257;a:pivotal_software:rabbitmq:1.7.13;1,0;False
+258;a:pivotal_software:rabbitmq:1.6.5;1,5;False
+259;a:pivotal_software:rabbitmq:1.7.7;3,0;False
+260;a:oracle:communications_session_route_manager;0,04347826086956521;False
+261;a:oracle:hyperion_financial_reporting;0,04545454545454545;False
+262;a:oracle:communications_element_manager;0,047619047619047616;False
+263;a:oracle:banking_enterprise_collections;0,049999999999999996;False
+264;a:oracle:communications_interactive_session_recorder;0,05263157894736841;False
+265;a:oracle:jd_edwards_enterpriseone_orchestrator;0,05555555555555555;False
+266;a:oracle:banking_platform;0,0588235294117647;False
+267;a:oracle:communications_analytics;0,0625;False
+268;a:oracle:financial_services_revenue_management_and_billing_analytics;0,06666666666666667;False
+269;a:oracle:health_sciences_inform;0,07142857142857142;False
+270;a:oracle:financial_services_regulatory_reporting_for_de_nederlandsche_bank;0,07692307692307693;False
+271;a:oracle:communications_session_report_manager;0,08333333333333333;False
+272;a:oracle:rest_data_services;0,0909090909090909;False
+273;a:oracle:webcenter_sites;0,09999999999999999;False
+274;a:oracle:siebel_mobile;0,1111111111111111;False
+275;a:oracle:communications_operations_monitor;0,125;False
+276;a:oracle:storagetek_tape_analytics_sw_tool;0,14285714285714285;False
+277;a:oracle:oss_support_tools;0,16666666666666666;False
+278;a:oracle:application_express;0,19999999999999998;False
+279;a:oracle:healthcare_translational_research;0,25;False
+280;a:oracle:primavera_gateway;0,3333333333333333;False
+281;a:oracle:peoplesoft_enterprise_human_capital_management_resources;0,5;False
+282;a:jquery:jquery:< 3.5.0;>= 1.0.3;1,0;True
+283;a:oracle:financial_services_data_governance_for_us_regulatory_reporting;0,022727272727272724;False
+284;a:oracle:insurance_accounting_analyzer;0,023255813953488372;False
+285;a:oracle:financial_services_data_integration_hub;0,023809523809523808;False
+286;a:oracle:financial_services_basel_regulatory_capital_basic;0,024390243902439025;False
+287;a:oracle:hospitality_materials_control;0,024999999999999998;False
+288;a:oracle:financial_services_analytical_applications_reconciliation_framework;0,02564102564102564;False
+289;a:oracle:financial_services_balance_sheet_planning;0,026315789473684206;False
+290;a:oracle:policy_automation_for_mobile_devices;0,027027027027027025;False
+291;a:oracle:jdeveloper;0,027777777777777776;False
+292;a:oracle:retail_customer_management_and_segmentation_foundation;0,028571428571428567;False
+293;a:oracle:financial_services_funds_transfer_pricing;0,02941176470588235;False
+294;a:oracle:financial_services_market_risk_measurement_and_management;0,0303030303030303;False
+295;a:oracle:insurance_data_foundation;0,03125;False
+296;a:oracle:agile_product_lifecycle_management_for_process;0,03225806451612903;False
+297;a:oracle:policy_automation;0,03333333333333333;False
+298;a:oracle:enterprise_session_border_controller;0,034482758620689655;False
+299;a:oracle:financial_services_hedge_management_and_ifrs_valuations;0,03571428571428571;False
+300;a:oracle:retail_returns_management;0,037037037037037035;False
+301;a:oracle:banking_digital_experience;0,038461538461538464;False
+302;a:oracle:financial_services_basel_regulatory_capital_internal_ratings_based_approach;0,04;False
+303;a:oracle:financial_services_liquidity_risk_management;0,041666666666666664;False
+304;a:oracle:hospitality_simphony;0,04347826086956521;False
+305;a:oracle:financial_services_institutional_performance_analytics;0,04545454545454545;False
+306;a:oracle:blockchain_platform;0,047619047619047616;False
+307;a:oracle:financial_services_regulatory_reporting_for_us_federal_reserve;0,049999999999999996;False
+308;a:oracle:financial_services_analytical_applications_infrastructure;0,05263157894736841;False
+309;a:oracle:financial_services_price_creation_and_discovery;0,05555555555555555;False
+310;a:oracle:insurance_allocation_manager_for_enterprise_profitability;0,0588235294117647;False
+311;a:oracle:policy_automation_connector_for_siebel;0,0625;False
+312;a:oracle:retail_back_office;0,06666666666666667;False
+313;a:oracle:financial_services_loan_loss_forecasting_and_provisioning;0,07142857142857142;False
+314;a:oracle:healthcare_foundation;0,07692307692307693;False
+315;a:oracle:financial_services_asset_liability_management;0,08333333333333333;False
+316;a:oracle:agile_product_supplier_collaboration_for_process;0,0909090909090909;False
+317;a:oracle:insurance_insbridge_rating_and_underwriting;0,09999999999999999;False
+318;a:oracle:financial_services_liquidity_risk_measurement_and_management;0,1111111111111111;False
+319;a:oracle:communications_billing_and_revenue_management;0,125;False
+320;a:oracle:communications_webrtc_session_controller;0,14285714285714285;False
+321;a:oracle:communications_diameter_signaling_router_idih;0,16666666666666666;False
+322;a:oracle:financial_services_regulatory_reporting_for_european_banking_authority;0,19999999999999998;False
+323;a:oracle:financial_services_profitability_management;0,25;False
+324;a:jquery:jquery:< 3.5.0;>= 1.2;0,3333333333333333;False
+325;a:oracle:siebel_ui_framework;0,5;False
+326;a:oracle:financial_services_data_foundation;1,0;False

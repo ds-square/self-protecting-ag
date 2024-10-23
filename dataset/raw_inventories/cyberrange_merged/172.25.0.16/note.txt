@@ -1,0 +1,7 @@
+9/129 no
+10/461 ve
+10/2108 extve
+10/482 splve
+
+ubuntu linux 15.10
+libjpeg 8c, required 9a

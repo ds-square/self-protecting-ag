@@ -1,0 +1,46 @@
+Step;Node;Score;Response
+0;a:gnu;2,833333333333333;True
+1;a:gnu:ncurses;2,6666666666666665;True
+2;a:openssl;2,104651162790698;False
+3;a:mozilla;1,243798449612403;False
+4;o:microsoft;1,1529245947850597;False
+5;o:opensuse;1,0348837209302326;False
+6;a:gnu:ncurses:< 6.2;2,0;True
+7;o:apple;1,0242424242424242;False
+8;a:gnu:ncurses:< 6.4;1,0;False
+9;a:gnu:ncurses:<= 6.2.1;1,0;False
+10;a:apache;1,0;False
+11;o:debian;0,7050664451827242;False
+12;a:gnu:ncurses:6.3;0,5;False
+13;a:gnu:ncurses:< 6.3;1,0;True
+14;o:canonical;0,3569263423914587;False
+15;o:fujitsu;0,41182170542635654;False
+16;a:oracle;0,6715116279069767;False
+17;o:oracle;1,1645994832041344;False
+18;h:fujitsu;0,41182170542635654;False
+19;o:suse;0,3082318198597268;False
+20;o:redhat;0,29817275747508304;False
+21;a:microsoft;0,2713178294573644;False
+22;a:google;0,3308139534883721;False
+23;a:opera;0,42441860465116277;False
+24;o:siemens;0,4941860465116279;False
+25;a:haxx;1,0;False
+26;h:siemens;0,4941860465116279;False
+27;a:ibm;0,4356589147286821;False
+28;o:mozilla;0,5;False
+29;a:apple;1,0;False
+30;h:huawei;0,24709302325581395;False
+31;a:huawei;0,3333333333333333;False
+32;a:suse;0,5;False
+33;a:redhat;1,0;False
+34;o:huawei;0,24709302325581395;False
+35;o:windriver;0,125;False
+36;o:ibm;0,14285714285714285;False
+37;o:linux;0,16666666666666669;True
+38;o:cisco;0,16666666666666669;False
+39;o:sco;0,2;False
+40;o:sgi;0,25;False
+41;o:novell;0,33333333333333337;False
+42;o:hp;0,5;False
+43;o:linux:linux_kernel;1,0;True
+44;o:linux:linux_kernel:-;1,0;True

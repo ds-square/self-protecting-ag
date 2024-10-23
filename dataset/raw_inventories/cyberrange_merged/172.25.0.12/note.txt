@@ -1,0 +1,9 @@
+16/432 nove
+31/1369 ve
+17/6048 expve
+17/1534 splve
+
+
+curl 7.38.0, required <= 7.23.1
+libjpeg 8c, required 9a
+rabbitmq 3.4.3 installed

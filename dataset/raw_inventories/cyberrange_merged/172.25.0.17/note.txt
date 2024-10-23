@@ -1,0 +1,8 @@
+5/148 no
+5/333 ve
+2/1216 extve
+2/360 splve
+
+openssl 1.1.1, required < 1.0.2
+ubuntu 18.04.6 LTS
+curl 7.58.0, required <= 7.23.1
