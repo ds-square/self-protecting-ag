@@ -197,6 +197,7 @@ NessusMongoTable = MongoDBclient["VulnDB"]["NessusPlugin"].find()
 
 
 # Alternate DB files
+"""
 f=open(file=RESOURCES_DIR+"/nvd_checkpoint.json",mode="r",encoding="utf-8")
 CVEMongoTable = json.loads(f.read())
 f.close()
@@ -216,6 +217,7 @@ f.close()
 f=open(file=RESOURCES_DIR+"/VulnDB.NessusPlugin_chunk3.json",mode="r",encoding="utf-8")
 NessusMongoTable.update(json.loads(f.read()))
 f.close()
+#"""
 
 
 mongo_cve_dict = dict()
@@ -229,11 +231,6 @@ for advisory in GLSAMongoTable:
 mongo_nessus_dict = dict()
 for advisory in NessusMongoTable:
     mongo_nessus_dict[advisory["id"]] = advisory
-
-
-
-
-
 
 # End database stuff
 
