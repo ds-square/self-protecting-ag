@@ -1,8 +1,0 @@
-4/146 no
-1/321 ve
-1/1136 extve
-1/346 splve
-
-openssl 1.1.1, required <= 1.0.2
-debian linux 10
-curl 7.64.0, required 7.23.1

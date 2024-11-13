@@ -1,0 +1,3 @@
+Place a dump of all NVD in json format here
+Rename to:
+nvd_checkpoint.json
