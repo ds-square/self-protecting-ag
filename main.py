@@ -5,6 +5,7 @@ import requests
 
 from filtering.engine.graph_engine import GraphFilter
 from aggregation.aggregator import Aggregator
+from scan_to_data.inventory_builder_cyberrange import InventoryBuilder
 
 
 # DRIVERS
@@ -15,6 +16,10 @@ AGGREGATION_LEVEL = 1
 # 1 - Max precision
 # 2 - Same likelihood
 # 3 - Max compression
+
+
+## BUILD INVENTORY
+InventoryBuilder.run()
 
 
 ## FILTERING
